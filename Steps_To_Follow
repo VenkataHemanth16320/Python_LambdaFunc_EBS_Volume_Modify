@@ -34,3 +34,6 @@ def lambda_handler(event, context):
 Attach Modify volume inline policy to existing ebs_volume_check policy.
 6.	Create a ebs volume of type gp2:
 It is automatically modified to gp3.                 
+
+Reference:
+https://www.youtube.com/watch?v=DgavixR_w5Y
